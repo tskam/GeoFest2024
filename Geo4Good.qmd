@@ -1,0 +1,138 @@
+---
+title: 'Harnessing Geospatial Analytics<br/>for Social Impacts'
+subtitle: ""
+author: "Dr. Kam Tin Seong<br/>Assoc. Professor of Information Systems(Practice)"
+institute: "School of Computing and Information Systems,<br/>Singapore Management University"
+date: "`r Sys.Date()`"
+format: 
+  revealjs:
+    width: 1600
+    height: 900
+    show-notes: false
+    slide-number: true
+    show-slide-number: all
+    css: styles.css
+execute: 
+  freeze: true
+editor: visual
+---
+
+# Content
+
+-   Demystifying Geospatial Analytics
+-   Motivation of Geospatial Analytics
+-   The Role of Geospatial Analytics
+-   Geospatial Analytics and Social Consciousness
+
+## Demystifying Geospatial Analytics
+
+-   A **Geographical Information System (GIS)** is a toolkit for creating, managing, analysing, visualising, and sharing data of any kind according to where it's located.
+
+![](img/image1.jpg){fig-align="center" width="121"}
+
+::: {style="font-size: 1.5em; text-align: center"}
+Geospatial analytics is more than a GIS.
+:::
+
+## Demystifying Geospatial Analytics
+
+-   Geospatial analytics is more than just mapping.
+
+![](img/image2.jpg)
+
+## Motivation of Geospatial Analytics
+
+-   About 80% of all data maintained by organisations around the world has a location component.
+
+![](img/image3.jpg){fig-align="center"}
+
+::: {style="font-size: 0.65em; text-align: center"}
+(Source: BusinessWeek Research Services, 2006)
+:::
+
+## Motivation of Geospatial Analytics
+
+-   The explosion in the availability of open geospatial data from both the public and private sectors at national and international levels.
+
+![](img/image4.jpg){fig-align="center"}
+
+## The role of Geospatial Analytics
+
+-   Uncovering insights not found in statistical graphs and tables.
+
+![](img/image5.jpg)
+
+::: {style="font-size: 0.65em; text-align: center"}
+Source: [SGSAS - Simple Geo-Spatial Analysis using R Shiny](https://wiki.smu.edu.sg/1920t2isss608/Group11_application)
+:::
+
+## The role of Geospatial Analytics
+
+-   To reveal the untapped property of spatial contiguity in geographic knowledge discovery in databases.
+
+![](img/image6.jpg){fig-align="center"}
+
+::: {style="font-size: 0.65em; text-align: center"}
+Source: [SGSAS - Simple Geo-Spatial Analysis using R Shiny](https://wiki.smu.edu.sg/1920t2isss608/Group11_application)
+:::
+
+## The role of Geospatial Analytics
+
+-   To uncover the complexity of the real world relationship.
+
+![](img/image7.jpg){fig-align="center"}
+
+::: {style="font-size: 0.65em; text-align: center"}
+Source: [SGSAS - Simple Geo-Spatial Analysis using R Shiny](https://wiki.smu.edu.sg/1920t2isss608/Group11_application)
+:::
+
+## The role of Geospatial Analytics
+
+-   To model spatial interactions and flows.
+
+![](img/image8.jpg){fig-align="center"}
+
+::: {style="font-size: 0.65em; text-align: center"}
+Source: [IS415 Bus Rider Flow Project](https://bus-rider-flow.shinyapps.io/is415-project/)
+:::
+
+## Geospatial Analytics and Social Consciousness
+
+The true power of geospatial analytics is to provide decision makers and planners with data-driven and process information for better problem solving and more efficient use of resources.
+
+![](img/image9.jpg){fig-align="center" width="1015"}
+
+## Geospatial Analytics for Natural Disaster Management
+
+A project done as part of the coursework for [SMT201 Geographic Information Systems for Urban Planning](https://smt201-ay2023-24t1.netlify.app/).
+
+![](img/image10.jpg)
+
+Click on this [link](https://smt201-g2-2023.netlify.app/) for more detail.
+
+## Geospatial Analytics for Health
+
+![](img/image11.jpg){width="1200"}
+
+Click on this [link](https://is415-geospatial-with-khant.netlify.app/take-home_ex/take-home_ex02/take-home_ex02) for more detail.
+
+## Geospatial Analytics for Landslides Susceptibility Modelling and Mapping
+
+![](img/image12.jpg){width="1200"}
+
+Click on this [link](https://is485-whatcauseslandslides.netlify.app/) for more detail. Please visit us at the exhibition booth.
+
+## Geospatial Analytics for Traffic Accident Analysis
+
+![](img/image13.jpg){width="1000"}
+
+Click on this [link](https://wecouldgoanywhere.netlify.app/take-home_ex/take-home_ex01/take-home_ex01) for more detail. Please visit us at the exhibition booth.
+
+```{r}
+#| echo: false
+#| eval: false
+renderthis::to_pdf(
+  from = "https://is415-ay2022-23t2.netlify.app/lesson/Lesson01/Lesson01-Introduction_to_GAA.html",
+  to = "D://IS415_AY2022-23T2/02-Lesson/Lesson01.pdf"
+)
+```

@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "GeoFest 2024"
+  navbar:
+    background: "#e0ae24"
+    left:
+    - text: "Geospatial for Good"
+      href: syllabus.qmd
+    - text: "Workshop"
+      menu:
+      - text: "Introducing R Shiny"
+        href: ""
+      - text: "Advanced R Shiny"
+        href: ""
+      - text: "Deploying and Managing R Shiny applications"
+        href: ""
+    right:
+    - text: "All About Shiny"
+      menu: 
+        - text: "Shiny"
+          href: https://shiny.posit.co/
+        - text: "Shiny for R"
+          href: https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html
+        - text: "Books on Shiny"
+          href: git.html
+    - text: "Home"
+      href: index.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+
