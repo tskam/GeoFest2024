@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GeoFest 2024",
+    "section": "",
+    "text": "Welcome to Singapore Geospatial Festival 2024\nIn this web site, you will find two sets of materials I prepared for Singapore Geospatial Festival 2024."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#words-of-encouragement",
+    "href": "index.html#words-of-encouragement",
+    "title": "ISSS626 AY2024-25 October Term",
+    "section": "",
+    "text": "For the next 10 weeks, your learning journey will be very bumpy, especially come to R programming.\n\nLearning R can be difficult at first—it’s like learning a new language, just like Spanish, French, or Chinese. Hadley Wickham—the chief data scientist at RStudio and the author of some amazing R packages you’ll be using like ggplot2 — made this wise observation:\n\nIt’s easy when you start out programming to get really frustrated and think, “Oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It’s just a natural part of programming. So, it happens to everyone and gets less and less over time. Don’t blame yourself. Just take a break, do something fun, and then come back and try again later.\n\nEven experienced programmers find themselves bashing their heads against seemingly intractable errors.\n\nIf you’re finding yourself taking way too long hitting your head against a wall and not understanding, take a break, talk to classmates, and don’t hesitate to approach me.\nThe students who have a bad time in this course are the ones who don’t work with one another to learn. We are a learning community, and we should help each other to learn.\nIf you understand something and someone is struggling with it, try and help them. If you are struggling, take a breath, and try to pinpoint what you are struggling with.\nOur goal is to be better programmers each day, not to be the perfect programmer. There’s no such thing as a perfect programmer. I’ve been learning new things almost every day.\nI promise you can succeed in this class as long as you are willing to learn, practice, be open minded and don’t give up easily."
+  },
+  {
+    "objectID": "index.html#other-important-information",
+    "href": "index.html#other-important-information",
+    "title": "ISSS626 AY2024-25 October Term",
+    "section": "",
+    "text": "All acts of academic dishonesty (including, but not limited to, plagiarism, cheating, fabrication, facilitation of acts of academic dishonesty by others, unauthorized possession of exam questions, or tampering with the academic work of other students) are serious offences. All work (whether oral or written) submitted for purposes of assessment must be the student’s own work. Penalties for violation of the policy range from zero marks for the component assessment to expulsion, depending on the nature of the offense. When in doubt, students should consult the instructors of the course. Details on the SMU Code of Academic Integrity may be accessed at http://www.smuscd.org/resources.html\n\n\n\nCourse materials obtained during your course of study at SMU are meant for personal use only, namely, for the purposes of studying and research. You are strictly not permitted to make copies of or print additional copies or distribute such copies of the course materials or any parts thereof, for commercial gain or exchange. For example, offering such materials on the Internet through CourseHero, Carousell and the like, is strictly prohibited.\nThe selling of these materials and/or any copies thereof are strictly prohibited under Singapore copyright laws. Printed materials and electronic materials are both protected by copyright laws. All students are subject to Singapore copyright laws and must strictly adhere to SMU’s procedures and requirements relating to copyright.\nPlease also note that for some materials, the publishers may specifically state that each copy is for the personal use of one individual only and no further reprographic reproduction is allowed, including for personal use. These restrictions are spelt out clearly on these specific sets of resources and students are required to adhere to these rules.\nStudents who infringe any of the aforesaid rules, laws and requirements shall be liable to disciplinary action by SMU. In addition, such students may also leave themselves open to suits by copyright owners who are entitled to take legal action against persons who infringe their copyright.\nWe strongly urge all students to respect the copyright laws and abide by SMU’s procedures and requirements relating to copyright.\n\n\n\nSMU strives to make learning experiences accessible for all. If you anticipate or experience physical or academic barriers due to disability, please let the instructor know immediately. You are also welcome to contact the university’s disability support team if you have questions or concerns about academic accommodations:included@smu.edu.sg\nPlease be aware that the accessible tables in our seminar room should remain available for students who require them. Emergency\n\n\n\nAs part of emergency preparedness, Instructors may conduct lessons online via the WebEx platform during the term, to prepare students for online learning. During an actual emergency, students will be notified to access the WebEx platform for their online lessons. The class schedule will mirror the current face-to-face class timetable unless otherwise stated."
+  },
+  {
+    "objectID": "Geo4Good.html#demystifying-geospatial-analytics",
+    "href": "Geo4Good.html#demystifying-geospatial-analytics",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "Demystifying Geospatial Analytics",
+    "text": "Demystifying Geospatial Analytics\n\nA Geographical Information System (GIS) is a toolkit for creating, managing, analysing, visualising, and sharing data of any kind according to where it’s located.\n\n\n\nGeospatial analytics is more than a GIS."
+  },
+  {
+    "objectID": "Geo4Good.html#demystifying-geospatial-analytics-1",
+    "href": "Geo4Good.html#demystifying-geospatial-analytics-1",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "Demystifying Geospatial Analytics",
+    "text": "Demystifying Geospatial Analytics\n\nGeospatial analytics is more than just mapping."
+  },
+  {
+    "objectID": "Geo4Good.html#demystifying-geospatial-analytics-2",
+    "href": "Geo4Good.html#demystifying-geospatial-analytics-2",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "Demystifying Geospatial Analytics",
+    "text": "Demystifying Geospatial Analytics\n\nGeospatial analytics is more than just mapping."
+  },
+  {
+    "objectID": "Geo4Good.html#motivation-of-geospatial-analytics",
+    "href": "Geo4Good.html#motivation-of-geospatial-analytics",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "Motivation of Geospatial Analytics",
+    "text": "Motivation of Geospatial Analytics\n\nAbout 80% of all data maintained by organisations around the world has a location component.\n\n\n\n(Source: BusinessWeek Research Services, 2006)"
+  },
+  {
+    "objectID": "Geo4Good.html#motivation-of-geospatial-analytics-1",
+    "href": "Geo4Good.html#motivation-of-geospatial-analytics-1",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "Motivation of Geospatial Analytics",
+    "text": "Motivation of Geospatial Analytics\n\nThe explosion in the availability of open geospatial data from both the public and private sectors at national and international levels."
+  },
+  {
+    "objectID": "Geo4Good.html#motivation-of-geospatial-analytics-2",
+    "href": "Geo4Good.html#motivation-of-geospatial-analytics-2",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "Motivation of Geospatial Analytics",
+    "text": "Motivation of Geospatial Analytics\n\nThe national geospatial master plan.\n\n\n\nSource: Singapore Geospatial Master Plan"
+  },
+  {
+    "objectID": "Geo4Good.html#motivation-of-geospatial-analytics-3",
+    "href": "Geo4Good.html#motivation-of-geospatial-analytics-3",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "Motivation of Geospatial Analytics",
+    "text": "Motivation of Geospatial Analytics\n\nThe national geospatial master plan.\n\n\n\nSource: Singapore Geospatial Master Plan"
+  },
+  {
+    "objectID": "Geo4Good.html#the-role-of-geospatial-analytics",
+    "href": "Geo4Good.html#the-role-of-geospatial-analytics",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "The role of Geospatial Analytics",
+    "text": "The role of Geospatial Analytics\n\nUncovering insights not found in statistical graphs and tables.\n\n\n\nSource: SGSAS - Simple Geo-Spatial Analysis using R Shiny"
+  },
+  {
+    "objectID": "Geo4Good.html#the-role-of-geospatial-analytics-1",
+    "href": "Geo4Good.html#the-role-of-geospatial-analytics-1",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "The role of Geospatial Analytics",
+    "text": "The role of Geospatial Analytics\n\nTo reveal the untapped property of spatial contiguity in geographic knowledge discovery in databases.\n\n\n\nSource: SGSAS - Simple Geo-Spatial Analysis using R Shiny"
+  },
+  {
+    "objectID": "Geo4Good.html#the-role-of-geospatial-analytics-2",
+    "href": "Geo4Good.html#the-role-of-geospatial-analytics-2",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "The role of Geospatial Analytics",
+    "text": "The role of Geospatial Analytics\n\nTo uncover the complexity of the real world relationship.\n\n\n\nSource: SGSAS - Simple Geo-Spatial Analysis using R Shiny"
+  },
+  {
+    "objectID": "Geo4Good.html#the-role-of-geospatial-analytics-3",
+    "href": "Geo4Good.html#the-role-of-geospatial-analytics-3",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "The role of Geospatial Analytics",
+    "text": "The role of Geospatial Analytics\n\nTo model spatial interactions and flows.\n\n\n\nSource: IS415 Bus Rider Flow Project"
+  },
+  {
+    "objectID": "Geo4Good.html#geospatial-analytics-and-social-consciousness",
+    "href": "Geo4Good.html#geospatial-analytics-and-social-consciousness",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "Geospatial Analytics and Social Consciousness",
+    "text": "Geospatial Analytics and Social Consciousness\nThe true power of geospatial analytics is to provide decision makers and planners with data-driven and process information for better problem solving and more efficient use of resources."
+  },
+  {
+    "objectID": "Geo4Good.html#geospatial-analytics-for-natural-disaster-management",
+    "href": "Geo4Good.html#geospatial-analytics-for-natural-disaster-management",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "Geospatial Analytics for Natural Disaster Management",
+    "text": "Geospatial Analytics for Natural Disaster Management\nA project done as part of the coursework for SMT201 Geographic Information Systems for Urban Planning.\n\nClick on this link for more detail."
+  },
+  {
+    "objectID": "Geo4Good.html#geospatial-analytics-for-health",
+    "href": "Geo4Good.html#geospatial-analytics-for-health",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "Geospatial Analytics for Health",
+    "text": "Geospatial Analytics for Health\n\nClick on this link for more detail."
+  },
+  {
+    "objectID": "Geo4Good.html#geospatial-analytics-for-landslides-susceptibility-modelling-and-mapping",
+    "href": "Geo4Good.html#geospatial-analytics-for-landslides-susceptibility-modelling-and-mapping",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "Geospatial Analytics for Landslides Susceptibility Modelling and Mapping",
+    "text": "Geospatial Analytics for Landslides Susceptibility Modelling and Mapping\n\nClick on this link for more detail. Please visit us at the exhibition booth."
+  },
+  {
+    "objectID": "Geo4Good.html#geospatial-analytics-for-traffic-accident-analysis",
+    "href": "Geo4Good.html#geospatial-analytics-for-traffic-accident-analysis",
+    "title": "Harnessing Geospatial Analyticsfor Social Impacts",
+    "section": "Geospatial Analytics for Traffic Accident Analysis",
+    "text": "Geospatial Analytics for Traffic Accident Analysis\n\nClick on this link for more detail. Please visit us at the exhibition booth."
+  }
+]
