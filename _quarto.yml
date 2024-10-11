@@ -7,7 +7,7 @@ website:
     background: "#e0ae24"
     left:
     - text: "Geospatial for Good"
-      href: syllabus.qmd
+      href: Geo4Good.html
     - text: "Workshop"
       menu:
       - text: "Introducing R Shiny"
