@@ -98,13 +98,13 @@ Source: [IS415 Bus Rider Flow Project](https://bus-rider-flow.shinyapps.io/is415
 
 ## Geospatial Analytics and Social Consciousness
 
-- The true power of geospatial analytics is to provide decision makers and planners with data-driven and process information for better problem solving and more efficient use of resources.
+-   The true power of geospatial analytics is to provide decision makers and planners with data-driven and process information for better problem solving and more efficient use of resources.
 
 ![](img/image9.jpg){fig-align="center" width="1015"}
 
 ## Geospatial Analytics for Natural Disaster Management
 
-- A project done as part of the coursework for [SMT201 Geographic Information Systems for Urban Planning](https://smt201-ay2023-24t1.netlify.app/).
+-   A project done as part of the coursework for [SMT201 Geographic Information Systems for Urban Planning](https://smt201-ay2023-24t1.netlify.app/).
 
 ![](img/image10.jpg)
 
@@ -112,7 +112,9 @@ Click on this [link](https://smt201-g2-2023.netlify.app/) for more detail.
 
 ## Geospatial Analytics for Health
 
-![](img/image11.jpg){width="1200"}
+-   An assignment done as part of the coursework for [IS415 Geospatial Analytics and Applications](https://is415-ay2023-24t2.netlify.app/)
+
+![](img/image11.jpg){fig-align="center" width="1200"}
 
 Click on this [link](https://is415-geospatial-with-khant.netlify.app/take-home_ex/take-home_ex02/take-home_ex02) for more detail.
 
@@ -124,7 +126,9 @@ Click on this [link](https://is485-whatcauseslandslides.netlify.app/) for more d
 
 ## Geospatial Analytics for Traffic Accident Analysis
 
-![](img/image13.jpg){width="1000"}
+-   An assignment done as part of the coursework for [ISSS626 Geospatial Analytics and Applications](https://isss626-ay2024-25aug.netlify.app/)
+
+![](img/image13.jpg){fig-align="center" width="1000"}
 
 Click on this [link](https://wecouldgoanywhere.netlify.app/take-home_ex/take-home_ex01/take-home_ex01) for more detail. Please visit us at the exhibition booth.
 
