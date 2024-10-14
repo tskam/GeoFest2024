@@ -98,13 +98,13 @@ Source: [IS415 Bus Rider Flow Project](https://bus-rider-flow.shinyapps.io/is415
 
 ## Geospatial Analytics and Social Consciousness
 
-The true power of geospatial analytics is to provide decision makers and planners with data-driven and process information for better problem solving and more efficient use of resources.
+- The true power of geospatial analytics is to provide decision makers and planners with data-driven and process information for better problem solving and more efficient use of resources.
 
 ![](img/image9.jpg){fig-align="center" width="1015"}
 
 ## Geospatial Analytics for Natural Disaster Management
 
-A project done as part of the coursework for [SMT201 Geographic Information Systems for Urban Planning](https://smt201-ay2023-24t1.netlify.app/).
+- A project done as part of the coursework for [SMT201 Geographic Information Systems for Urban Planning](https://smt201-ay2023-24t1.netlify.app/).
 
 ![](img/image10.jpg)
 
