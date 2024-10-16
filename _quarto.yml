@@ -8,14 +8,9 @@ website:
     left:
     - text: "Geospatial for Good"
       href: Geo4Good.html
-    - text: "Workshop"
-      menu:
-      - text: "Introducing R Shiny"
-        href: ""
-      - text: "Advanced R Shiny"
-        href: ""
-      - text: "Deploying and Managing R Shiny applications"
-        href: ""
+    - text: "Shiny Workshop"
+      href: ShinyWorkshop/Shiny.html
+
     right:
     - text: "All About Shiny"
       menu: 
